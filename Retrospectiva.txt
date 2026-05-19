@@ -1,0 +1,13 @@
+¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+Juan Diego Gaitan - 4 horas
+¿Cuál es el estado actual del laboratorio? ¿Por qué?
+Completado 
+¿Cuál consideran fue el mayor logro? ¿Por qué?
+Entender el MINIMAX pues es un algoritmo completo 
+¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+Entender la sintaxis para el MINIMAX 
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Fui yo solo pero me comprometo a estudiar más el algoritmo 
+¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+Gemini IA como ayudante para sintaxis. 
+
